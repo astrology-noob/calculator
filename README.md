@@ -2,12 +2,4 @@
 
 All 5 tests in tests.py file passed
 
-pytest tests.py    
-================================================================================ test session starts ================================================================================
-platform win32 -- Python 3.9.7, pytest-7.1.1, pluggy-1.0.0
-rootdir: C:\Users\Мелания\Documents\calculator
-collected 5 items
-
-tests.py .....                                                                                                                                                                 [100%]
-
-================================================================================= 5 passed in 0.04s ================================================================================= 
+![image](https://user-images.githubusercontent.com/65086254/161161820-3693671f-d7b5-4393-a83e-a9024a0a2895.png)
